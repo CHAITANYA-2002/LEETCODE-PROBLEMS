@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/1827-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
