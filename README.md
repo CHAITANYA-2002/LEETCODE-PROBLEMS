@@ -23,4 +23,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
