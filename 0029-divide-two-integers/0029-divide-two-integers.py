@@ -1,0 +1,38 @@
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
+
+        # 32-bit integer limits
+        MAX_INT = 2**31 - 1
+        MIN_INT = -2**31
+
+        # overflow case
+        if dividend == MIN_INT and divisor == -1:
+            return MAX_INT
+
+        # determine sign
+        negative = (dividend < 0) != (divisor < 0)
+
+        # make positive
+        dividend = abs(dividend)
+        divisor = abs(divisor)
+
+        quotient = 0
+
+        while dividend >= divisor:
+
+            temp = divisor
+            multiple = 1
+
+            # double divisor until too large
+            while dividend >= (temp << 1):
+
+                temp <<= 1
+                multiple <<= 1
+
+            dividend -= temp
+            quotient += multiple
+
+        if negative:
+            quotient = -quotient
+
+        return quotient
