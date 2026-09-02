@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
@@ -56,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/CHAITANYA-2002/LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
